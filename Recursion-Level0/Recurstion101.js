@@ -14,7 +14,7 @@
 //4.Keeping in mind the Time Complexity
 
 //When to use Recurstion
-//1.Problem can be broken to SUb Problems
+//1.Problem can be broken to Sub Problems
 //2.Trees & Graphs
 //3.Back Tracking ,DP, Divide&Conquer
 
