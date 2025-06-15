@@ -19,4 +19,4 @@ function selectionSort(arr){
 }
 
 let result = selectionSort(arr);
-console.log(result);
+console.log(result);  //O/p: [1,2,3,4.5.7]
